@@ -1,0 +1,18 @@
+=============== Feb 9, 2021 (MST) ===============
+19:50:40.539511 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:50:40.551423 db@open opening
+19:50:40.552420 version@stat F·[] S·0B[] Sc·[]
+19:50:40.559488 db@janitor F·2 G·0
+19:50:40.559488 db@open done T·8.0649ms
+19:50:40.572486 db@close closing
+19:50:40.573500 db@close done T·1.0137ms
+=============== Feb 9, 2021 (MST) ===============
+19:53:31.808223 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:53:31.808223 version@stat F·[] S·0B[] Sc·[]
+19:53:31.808223 db@open opening
+19:53:31.809236 journal@recovery F·1
+19:53:31.819201 journal@recovery recovering @1
+19:53:31.829210 memdb@flush created L0@2 N·12 S·876B "Hp\xb9..oY9,v5":"\x80\x8a]..1-\x85,v2"
+19:53:31.839346 version@stat F·[1] S·876B[876B] Sc·[0.25]
+19:53:31.856742 db@janitor F·3 G·0
+19:53:31.856742 db@open done T·48.5187ms
