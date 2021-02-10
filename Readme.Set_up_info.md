@@ -20,8 +20,7 @@ The public key can be used by anyone.
 
 Data encrypted with the public key can only be decrypted with the private key, and data encrypted with the private key can only be decrypted with the public key
 
-private key: 0x924094c13698491ed7219c0459d24b250904a4b3efec2d901737142698fe741d
-
+private key: #####
 Create Nodes
 ./geth account new --datadir Net1
 
